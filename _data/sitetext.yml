@@ -1,6 +1,6 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Making Good Men Better
+    text: Omineca Lodge No. 92
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
